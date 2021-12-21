@@ -1,0 +1,22 @@
+{
+  "name": "com.barbeiroemcasa",
+  "version": "1.0.0",
+  "description": "Api do aplicativo Barbeiro em Casa",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbeiroEmCasa/barbeiroEmCasaApi.git"
+  },
+  "author": "Carlos Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbeiroEmCasa/barbeiroEmCasaApi/issues"
+  },
+  "homepage": "https://github.com/barbeiroEmCasa/barbeiroEmCasaApi#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
